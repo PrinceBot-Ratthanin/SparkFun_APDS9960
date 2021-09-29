@@ -1,0 +1,16 @@
+{
+  "name" : "SparkFun_APDS9960",
+  "title": "SparkFun_APDS9960",
+  "keywords": "9960, 1-wire, bus, sensor, gy-9960,SparkFun",
+  "description": "This is the  RGB and Gesture Sensor, a small breakout board with a built in APDS-9960 sensor that offers ambient light and color measuring",
+  "git": "https://github.com/PrinceBot-Ratthanin/SparkFun_APDS9960/",
+  "author": "SparkFun | Block by PrinceBot",
+  "email": "Print081@gmail.com",
+  "url": "https://github.com/PrinceBot-Ratthanin/SparkFun_APDS9960/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "MIT",
+  "image" : "/static/display.jpg",
+  "homepage": "https://learn.sparkfun.com/tutorials/apds-9960-rgb-and-gesture-sensor-hookup-guide#hardware-hookup"
+}
